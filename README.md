@@ -1,4 +1,4 @@
-# Crypto ICO: Arcade Coin
+# Crypto ICO: Arcade (ARC) Token
 Smart Contract for deploying a crypto ICO called Arcade
 
 # CREATE TOKEN COIN
