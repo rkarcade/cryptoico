@@ -39,14 +39,14 @@ interface ERC20Interface {
 
 
 # ICO - Initial Coin Offering
-●1Eth = 1000 ARC 
-● The ICO Hardcap is 300 ETH;
-● The ICO will have an admin that specifies when the ICO starts and ends;
-● The ICO ends when the Hardcap or the end time is reached (whichever comes first);
-● The CRPT token will be tradable only after a specific time set by the admin;
+●1Eth = 1000 ARC </br>
+● The ICO Hardcap is 300 ETH; </br>
+● The ICO will have an admin that specifies when the ICO starts and ends; </br>
+● The ICO ends when the Hardcap or the end time is reached (whichever comes first); </br>
+● The CRPT token will be tradable only after a specific time set by the admin; </br>
 
-To deploy the ICO, use a primary wallet associated with admin/Founder, 
-address of the ICO contract: 
-0x6Cc04A47dC035297188343E0DC4751905cd626B1
+To deploy the ICO, use a primary wallet associated with admin/Founder, </br>
+address of the ICO contract: </br>
+0x6Cc04A47dC035297188343E0DC4751905cd626B1 </br>
 
 When an investor invest 1 eth to the contract address, the investor will receive 1000 ARC tokens in return.
