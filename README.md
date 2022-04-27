@@ -43,7 +43,7 @@ interface ERC20Interface {
 ● The ICO Hardcap is 300 ETH; </br>
 ● The ICO will have an admin that specifies when the ICO starts and ends; </br>
 ● The ICO ends when the Hardcap or the end time is reached (whichever comes first); </br>
-● The CRPT token will be tradable only after a specific time set by the admin; </br>
+● The ARC token will be tradable only after a specific time set by the admin; </br>
 
 To deploy the ICO, use a primary wallet associated with admin/Founder, </br>
 address of the ICO contract: </br>
